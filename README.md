@@ -1,10 +1,5 @@
 # Decola Tech 2º Edição :man_technologist:
 
-```html
-~~~html
-
-```
-
 <h1 class="h1-projetos">Projetos Decola Tech</h1> 
 
 
